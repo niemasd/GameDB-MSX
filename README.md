@@ -1,0 +1,2 @@
+# GameDB-MSX
+ASCII MSX
